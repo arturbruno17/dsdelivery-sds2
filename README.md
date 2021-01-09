@@ -8,8 +8,11 @@
 <p align="center">Projeto realizado durante a Semana DevSuperior 2.0</p>
 
 <p align="center">
+  <img src="https://img.shields.io/static/v1?label=springboot&message=2.4.1&color=6AAD3D&style=flat-square&logo=spring"/>
   <img src="https://img.shields.io/static/v1?label=npm&message=6.14.9&color=C53534&style=flat-square&logo=npm"/>
   <img src="https://img.shields.io/static/v1?label=react&message=^17.0.1&color=61D9FB&style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/static/v1?label=react-native&message=0.63.2&color=61D9FB&style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/static/v1?label=expo&message=40.0.0&color=F2F2F2&style=flat-square&logo=expo"/>
   <img src="https://img.shields.io/static/v1?label=typescript&message=^4.1.3&color=2F74C0&style=flat-square&logo=typescript"/>
 </p>
 
@@ -36,6 +39,9 @@ página que possui as orientações para o cliente, a lista de produtos, um mapa
 - Front-end:
   - ReactJS
   - Axios
+- Mobile:
+  - React-native
+  - Expo
 - Back-end:
   - Springboot
   - JPA / Hibernate
@@ -63,8 +69,4 @@ página que possui as orientações para o cliente, a lista de produtos, um mapa
 </a>
 <a href="https://github.com/acenelio" target="_new">
   <img src="https://img.shields.io/badge/-Nelio Alves-000000?style=flat-square&labelColor=000000&logo=github&logoColor=white"/>
-<<<<<<< HEAD
 </a>
-=======
-</a>
->>>>>>> 8c2b17699403492e7911026342b621e8b9f69bbc

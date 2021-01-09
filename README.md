@@ -63,4 +63,8 @@ página que possui as orientações para o cliente, a lista de produtos, um mapa
 </a>
 <a href="https://github.com/acenelio" target="_new">
   <img src="https://img.shields.io/badge/-Nelio Alves-000000?style=flat-square&labelColor=000000&logo=github&logoColor=white"/>
+<<<<<<< HEAD
 </a>
+=======
+</a>
+>>>>>>> 8c2b17699403492e7911026342b621e8b9f69bbc

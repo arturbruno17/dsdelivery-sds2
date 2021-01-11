@@ -40,8 +40,8 @@ página que possui as orientações para o cliente, a lista de produtos, um mapa
   - HTML / CSS / JS / Typescript
   - ReactJS
   - React Native
-  - Apex Charts
   - Expo
+  - Axios
 - Back-end:
   - Java
   - Springboot

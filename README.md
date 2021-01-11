@@ -36,19 +36,21 @@ página que possui as orientações para o cliente, a lista de produtos, um mapa
 
 <h1>🛠 Tecnologias</h1>
 
-- Front-end:
+- Front-end e mobile:
+  - HTML / CSS / JS / Typescript
   - ReactJS
-  - Axios
-- Mobile:
-  - React-native
+  - React Native
+  - Apex Charts
   - Expo
 - Back-end:
+  - Java
   - Springboot
   - JPA / Hibernate
-- Hospedagem:
-  - Netlify (front-end)
-  - Heroku (back-end)
-- Banco de dados: PostgreSQL
+  - Maven
+- Implantação em produção:
+  - Front-end: Netlify
+  - Back-end: Heroku
+  - Banco de dados: PostgreSQL
 
 <h1>👨‍💻 Instalação</h1>
 <p>Para a instalação das ferramentas que foram necessárias para o desenvolvimento do projeto, segue uma lista de links abaixo para cada Sistema Operacional (OS):
